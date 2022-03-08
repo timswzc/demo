@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "VolunteerApp",
+    "slug": "VolunteerApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.usc.VolunteerApp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.usc.VolunteerApp"
+    }
+  },
+  "name": "VolunteerApp"
+}
